@@ -1,0 +1,10 @@
+,PRODUCT,PRICE,CUSTOMER,COUNTRY,__row_idx__,SALESGROUP
+0,Laptop,999.99,Acme Corp,USA,35,[PREDICT]
+1,Office chair,142.99,Möbel Boerner,Germany,571,[PREDICT]
+2,Desktop Computer,750.5,Global Tech,Canada,42,Enterprise Solutions
+3,Macbook,750.5,Global Tech,Canada,99,Enterprise Solutions
+4,Chromebook,750.5,Global Tech,US,689,Enterprise Solutions
+5,Smartphone,499.99,Mobile World,UK,43,Consumer Electronics
+6,Office Chair,150.8,Furniture Ltd,Germany,44,Office Furniture
+7,Server Rack,1200.0,Data Dynamics,Australia,104,Data Infrastructure
+8,Wireless Router,89.99,Tech Forward,India,204,Networking Devices
