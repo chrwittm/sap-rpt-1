@@ -1,10 +1,10 @@
-,PRODUCT,PRICE,CUSTOMER,COUNTRY,__row_idx__,SALESGROUP
-0,Laptop,999.99,Acme Corp,USA,35,[PREDICT]
-1,Office chair,142.99,Möbel Boerner,Germany,571,[PREDICT]
-2,Desktop Computer,750.5,Global Tech,Canada,42,Enterprise Solutions
-3,Macbook,750.5,Global Tech,Canada,99,Enterprise Solutions
-4,Chromebook,750.5,Global Tech,US,689,Enterprise Solutions
-5,Smartphone,499.99,Mobile World,UK,43,Consumer Electronics
-6,Office Chair,150.8,Furniture Ltd,Germany,44,Office Furniture
-7,Server Rack,1200.0,Data Dynamics,Australia,104,Data Infrastructure
-8,Wireless Router,89.99,Tech Forward,India,204,Networking Devices
+,ID,PRODUCT,PRICE,CUSTOMER,COUNTRY,SALESGROUP
+0,1001,Tablet,599.0,TechStart Inc,USA,[PREDICT]
+1,1002,Standing Desk,325.5,Workspace Solutions,Germany,[PREDICT]
+2,1003,Workstation,1450.0,Enterprise Systems Ltd,Canada,Enterprise Solutions
+3,1004,Laptop Pro,1899.99,Business Corp,UK,Enterprise Solutions
+4,1005,Gaming Laptop,1250.0,Digital Ventures,USA,Enterprise Solutions
+5,1006,Smart Watch,299.99,Gadget Store,Australia,Consumer Electronics
+6,1007,Ergonomic Chair,445.0,Office Outfitters,France,Office Furniture
+7,1008,Storage Array,3500.0,CloudTech Systems,Singapore,Data Infrastructure
+8,1009,Network Switch,175.5,ConnectIT,Japan,Networking Devices
