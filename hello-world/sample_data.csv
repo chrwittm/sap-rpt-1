@@ -1,10 +1,10 @@
-,ID,PRODUCT,PRICE,CUSTOMER,COUNTRY,SALESGROUP
-0,1001,Tablet,599.0,TechStart Inc,USA,[PREDICT]
-1,1002,Standing Desk,325.5,Workspace Solutions,Germany,[PREDICT]
-2,1003,Workstation,1450.0,Enterprise Systems Ltd,Canada,Enterprise Solutions
-3,1004,Laptop Pro,1899.99,Business Corp,UK,Enterprise Solutions
-4,1005,Gaming Laptop,1250.0,Digital Ventures,USA,Enterprise Solutions
-5,1006,Smart Watch,299.99,Gadget Store,Australia,Consumer Electronics
-6,1007,Ergonomic Chair,445.0,Office Outfitters,France,Office Furniture
-7,1008,Storage Array,3500.0,CloudTech Systems,Singapore,Data Infrastructure
-8,1009,Network Switch,175.5,ConnectIT,Japan,Networking Devices
+ID,PRODUCT,PRICE,CUSTOMER,COUNTRY,SALESGROUP
+1001,Tablet,599.0,TechStart Inc,USA,[PREDICT]
+1002,Standing Desk,325.5,Workspace Solutions,Germany,[PREDICT]
+1003,Workstation,1450.0,Enterprise Systems Ltd,Canada,Enterprise Solutions
+1004,Laptop Pro,1899.99,Business Corp,UK,Enterprise Solutions
+1005,Gaming Laptop,1250.0,Digital Ventures,USA,Enterprise Solutions
+1006,Smart Watch,299.99,Gadget Store,Australia,Consumer Electronics
+1007,Ergonomic Chair,445.0,Office Outfitters,France,Office Furniture
+1008,Storage Array,3500.0,CloudTech Systems,Singapore,Data Infrastructure
+1009,Network Switch,175.5,ConnectIT,Japan,Networking Devices
