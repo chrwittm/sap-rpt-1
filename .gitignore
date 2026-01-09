@@ -207,4 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 # Ignore macOS artifacts
-.DS_Store
+*.DS_Store
+
+# Ignore zip-files
+*.zip
